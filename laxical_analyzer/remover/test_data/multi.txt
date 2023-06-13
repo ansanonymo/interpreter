@@ -1,0 +1,8 @@
+int main(/* commen */){
+    printf("/* this is not comment\" */");
+}
+
+/**
+* this is comment.
+* this is comment 
+*/

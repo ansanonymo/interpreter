@@ -1,0 +1,9 @@
+#include <stdio.h> // this is header folder
+
+int main(char *args[]){ // this is string
+    printf("// This is string"); // this is comment
+    printf('// this is string\''); // this is comment
+    printf('"// this is string \"'); // this is comment
+
+    return 0;
+}
